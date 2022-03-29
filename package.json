@@ -9,7 +9,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MPL-2.0",
   "dependencies": {
     "axios": "^0.26.1",
     "dotenv": "^8.2.0",
